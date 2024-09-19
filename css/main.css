@@ -1,0 +1,70 @@
+.divone {
+    width: 400px;
+    height: 250px;
+    padding: 20px;
+    margin: 60px;
+    color: aliceblue;
+    border: 10px dotted lawngreen;
+    outline: 10px;
+    outline-offset: 10px;
+    background-color: blue;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 2px ;
+    background-image: url("../img/bacgraunds.webp");
+}
+.divtwo {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    margin: 60px;
+    color: aliceblue;
+    border: 10px dashed violet;
+    outline: 10px;
+    outline-offset: 10px;
+    background-color: darkgreen;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 2px ;
+    background-image:url("../img/bacgraunds2.webp")
+}
+.divthre {
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    margin: 60px;
+    color: aliceblue;
+    border: 10px double darkred;
+    outline: 10px;
+    outline-offset: 10px;
+    background-color: purple;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 2px ;
+    background-image:url("../img/bacgraunds3.webp")
+}
+.div4 {
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    margin: 60px;
+    color: aliceblue;
+    border: 10px double ivory;
+    outline: 10px;
+    outline-offset: 10px;
+    background-color: skyblue;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 2px ;
+    background-image:url("../img/bacgraunds4.webp")
+}
+.div5 {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin: 60px;
+    color: aliceblue;
+    border: 10px solid lime;
+    outline: 10px;
+    outline-offset: 10px;
+    background-color: sienna;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 2px ;
+    background-image:url("../img/bacgraunds5.webp")
+}
